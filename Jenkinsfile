@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    PROJECT = "woven-scene-239408"
+    PROJECT = "woven-scene-239408-231"
     APP_NAME = "gceme"
     FE_SVC_NAME = "${APP_NAME}-frontend"
     CLUSTER = "jenkins-cd"
